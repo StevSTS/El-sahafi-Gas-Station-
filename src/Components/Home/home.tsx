@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Table from "./Table/table";
 import TotalBtn from "./Total/totalBtn";
 import Riyals from "./saudi riyals/riyals";
@@ -12,6 +13,9 @@ export default function Home() {
                         <div className="bg-[#F98C07] py-8 px-12 text-white text-center text-[20px]  ">
                             <p>محطة الصحفى</p>
                             <p>El sahafi Gas Station</p>
+                        </div>
+                        <div>
+                            <Link to="/animation" className="text-[28px] font-[500] text-blue-600 underline hover:text-blue-500 duration-300">Animation</Link>
                         </div>
                         <div>
                             <p className="text-[28px] font-[500] ">تقرير شامل</p>
