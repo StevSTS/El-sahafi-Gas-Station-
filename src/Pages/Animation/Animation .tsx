@@ -103,9 +103,9 @@ const Animation = () => {
 
               <div className='details mx-auto mt-10'>
                <div className="btns flex items-center gap-5 justify-center">
-                <button className="text-[#6B6C72] bg-white flex items-center gap-4 text-[20px] py-[16px] px-20 rounded-[12px] "> المصروفات <FaGasPump /> </button>
+                <button className="text-[#6B6C72] bg-white flex items-center gap-4 text-[20px] py-[16px] px-20 rounded-[12px] "> المصروفات<CiBadgeDollar /></button>
                 <button className="text-[#6B6C72] bg-white flex items-center gap-4 text-[20px] py-[16px] px-20 rounded-[12px] ">العملاء <HiUserGroup /> </button>
-                <button className="btnact text-white bg-[#F98C07] flex items-center gap-4 text-[20px] py-[16px] px-20 rounded-[12px] ">الخزانات <CiBadgeDollar /> </button>
+                <button className="btnact text-white bg-[#F98C07] flex items-center gap-4 text-[20px] py-[16px] px-20 rounded-[12px] ">الخزانات<FaGasPump /></button>
                </div>
 
                <div className="Table rounded-[16px] bg-[#FFF9EB] text-end mt-12">
