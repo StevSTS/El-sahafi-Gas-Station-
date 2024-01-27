@@ -221,14 +221,15 @@ const Animation = () => {
                         </div>
                     </div>
                       <div className="">
-                        <div className="w-[14px] h-[321px] bg-[#75D43BF7] rounded-[8px] absolute top-0 right-14"></div>
-                        <div className="w-[14px] h-[137px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[145px] "></div>
-                        <div className="w-[14px] h-[183px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[245px] "></div>
-                        <div className="w-[14px] h-[112px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[345px] "></div>
-                        <div className="w-[14px] h-[52px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[435px] "></div>
-                        <div className="w-[14px] h-[292px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[535px] "></div>
-                        <div className="w-[14px] h-[52px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[735px] "></div>
-                        <div className="w-[14px] h-[162px] bg-[#75D43BF7] rounded-[8px] absolute bottom-0 right-[828px] "></div>
+                        <div className="w-[14px] h-[321px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-14"></div>
+                        <div className="w-[14px] h-[137px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[145px] "></div>
+                        <div className="w-[14px] h-[183px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[245px] "></div>
+                        <div className="w-[14px] h-[112px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[345px] "></div>
+                        <div className="w-[14px] h-[52px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[435px] "></div>
+                        <div className="w-[14px] h-[229px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[535px] "></div>
+                        <div className="w-[14px] h-[263px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[635px] "></div>
+                        <div className="w-[14px] h-[52px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[735px] "></div>
+                        <div className="w-[14px] h-[162px] bg-[#75D43BF7] rounded-[8px] absolute bottom-2 right-[828px] "></div>
                       </div>
                       <svg xmlns="http://www.w3.org/2000/svg" width="848" height="2" viewBox="0 0 848 2" fill="none"><path d="M0.457031 1.02783H848" stroke="#CCCCCC" stroke-dasharray="4 2"/></svg>
                   </div>

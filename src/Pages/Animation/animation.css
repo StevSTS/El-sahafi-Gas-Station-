@@ -1,5 +1,5 @@
 .imganimate{
-    animation: animate 1s forwards;
+    animation: animate .8s forwards;
 }
 @keyframes animate {
     100%{
