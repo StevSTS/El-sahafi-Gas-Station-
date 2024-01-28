@@ -1,5 +1,5 @@
 .imganimate{
-    animation: animate .8s forwards;
+    animation: animate .6s forwards;
 }
 @keyframes animate {
     100%{
@@ -23,7 +23,7 @@
 
 
 .imganimate2{
-    animation: animate2 1s forwards;
+    animation: animate2 .6s forwards;
 }
 
 
@@ -37,7 +37,7 @@
 
 
 .imganimate3{
-    animation: animate3 1s forwards;
+    animation: animate3 .6s forwards;
 }
 
 
